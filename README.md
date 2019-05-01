@@ -1,0 +1,1 @@
+CIS 3090 Extra Credit Project: The Department of Motor Vehicles has asked you to write a program that grades the written portion of the driver’s license exam. The exam has 20 multiple choice questions. A student must correctly answer 15 of the 20 questions to pass the exam.

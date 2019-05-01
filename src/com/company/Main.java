@@ -6,7 +6,7 @@ public class Main {
 	// write your code here
         //TODO:Write a main method that holds the correct answers, asks the user to enter a student's answers, call the above two methods, and then displays the results.
         // TODO:The program should use a constant for the maximum number of choice questions.
-        
+
         System.out.println("Please enter the student numbers.");
 
     }
